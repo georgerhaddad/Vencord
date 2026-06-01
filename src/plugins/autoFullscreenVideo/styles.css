@@ -1,0 +1,8 @@
+.vc-auto-fullscreen-button {
+    color: var(--interactive-icon-default);
+}
+
+.vc-auto-fullscreen-button:hover {
+    background-color: var(--background-mod-subtle);
+    color: var(--interactive-icon-hover);
+}
